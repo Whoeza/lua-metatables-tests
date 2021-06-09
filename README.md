@@ -1,2 +1,2 @@
 # lua-metatables-tests
-Experiments with Lua metatables
+ Experiments with Lua metatables.
